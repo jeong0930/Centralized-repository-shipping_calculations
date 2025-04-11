@@ -1,6 +1,4 @@
-# Here is another update by jeong0930
-
-# Here is a new update by jeong0930
+# Here is a new update by jeongkim
 
 # Shipping Cost Calculator
 
